@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning all that there is two know about computer science! For that, Im enrolled in severall projects and theoretical and pratical classes in FEUP. Despite the hard challenge, I'm enjoying every second of it !!! (well, perhaps not EVERY 😅, but almost)
-- If you're interested in having a chat, contact me trough email, or my ig:
+- If you're interested in having a chat, dont hesitate to contact me!
 - Email: joaomiguel20059@gmail.com 
 - ig: https://www.instagram.com/jlopes_15
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
