@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently learning all that there is two know about computer science! For that, Im enrolled in severall projects and theoretical and pratical classes in FEUP. Despite the hard challenge, I'm enjoying every second of it !!! (well, perhaps not EVERY 😅, but almost)
+- If you're interested in having a chat, contact me trough email, or my ig:
+  Email: joaomiguel20059@gmail.com 
+  ig: https://www.instagram.com/jlopes_15
