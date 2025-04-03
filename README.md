@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - Email: joaomiguel20059@gmail.com 
 - ig: https://www.instagram.com/jlopes_15
 - <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joão-lopes-603478334" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/jo%C3%A3o-lopes-603478334?trk=profile-badge">João Lopes</a></div>
+              
