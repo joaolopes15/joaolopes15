@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - I’m currently learning all that there is two know about computer science! For that, Im enrolled in severall projects and theoretical and pratical classes in FEUP. Despite the hard challenge, I'm enjoying every second of it !!! (well, perhaps not EVERY 😅, but almost)
 
 
-- [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jlopes_15)
-- [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/joão-lopes-603478334)
+  [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jlopes_15)
+  [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-lopes-603478334/)
 
