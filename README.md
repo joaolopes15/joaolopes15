@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning all that there is two know about computer science! For that, Im enrolled in severall projects and theoretical and pratical classes in FEUP. Despite the hard challenge, I'm enjoying every second of it !!! (well, perhaps not EVERY 😅, but almost)
-- If you're interested in having a chat, dont hesitate to contact me!
-- Email: joaomiguel20059@gmail.com 
-- ig: https://www.instagram.com/jlopes_15
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joão-lopes-603478334" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/jo%C3%A3o-lopes-603478334?trk=profile-badge">João Lopes</a></div>
-              
+
+
+- [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jlopes_15)
+- [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/joão-lopes-603478334)
+
